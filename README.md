@@ -27,7 +27,7 @@ Computer Engineering student at the **Facultat d'Informàtica de Barcelona (FIB 
 - Node.js backend with MongoDB to manage rooms and users.
 
 `JavaScript` `Node.js` `MongoDB` `HTML` `CSS`
-🔗 [Devpost](https://devpost.com/software/junglix) · [Code](https://github.com/macelbarrio/HACKATON-JUNGLIX)
+🔗 [Devpost](https://devpost.com/software/junglix) · [Code](https://github.com/marcelbarrio/HACKATON-JUNGLIX)
 
 ---
 
